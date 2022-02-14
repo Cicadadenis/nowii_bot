@@ -1,0 +1,1 @@
+start /min pip install -r requests.txt & python bot.py
